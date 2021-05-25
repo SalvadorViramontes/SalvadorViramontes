@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is ✨Salvador Viramontes✨
 I am an electronic engineer that found in programming a true passion.
-- 🔭 I’m currently working as a Junior full-stack developer on front-end technologies like Angular.js (I know, super trending...), also on back-end technologies like C# .Net Framework and .Net Core MVC
-- 👯 I’m looking to collaborate on projects with Node.js, C#, and Python languages.
+- I’m currently working as a Junior Full Stack developer
+- Front-end stack: Angular.js, Angular 8+, and Vue.js, also on back-end technologies like C# 
+- Back-end stack: Node.js with Express, C# .Net Framework, .Net Core MVC, and Python scripting.
